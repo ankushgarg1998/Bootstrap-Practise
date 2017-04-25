@@ -10,6 +10,12 @@ Have a look [here](https://ankushgarg1998.github.io/BootstrapPractise/TributePag
 
 This is a simple compilation of a lot of Bootstrap stuff for quick syntax and usage reference.
 This Cheat Sheet covers :
+- Navbar
+  - Links
+  - ~~Forms~~
+  - Dropdowns
+  - ~~Right Aligned~~
+- Jumbotron
 - Typography
 - Alignment & Transformation
 - Quick Float
@@ -28,6 +34,15 @@ This Cheat Sheet covers :
 - Forms
   - Inline Forms
 - Tables
+- List Groups
+- Panels
+- Wells
+- Alerts
+- Progress Bars
+- Labels
+- Badges
+- Image
+- Grids
 
 Have a look at the [website](https://ankushgarg1998.github.io/BootstrapPractise/Bootstrap-CheatSheet/index.html)
 and the [Code](#).
